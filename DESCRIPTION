@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Author@R:
   c(person(given = "Athena",
            family = "Oliveoil",
-           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           role = c("aut", "cre"), 
            email = "s212881@student.dtu.dk"), 
     person(given = "Christopher",
            family = "Colombus",
