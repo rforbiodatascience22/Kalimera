@@ -9,3 +9,5 @@ make_dna <- function(number){
   dna_seq <- paste0(dna, collapse = "")
   return(dna_seq)
 }
+
+p
