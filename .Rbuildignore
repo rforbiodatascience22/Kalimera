@@ -1,5 +1,6 @@
 ^Kalimera\.Rproj$
 ^\.Rproj\.user$
-^Kalimera\.Rcheck$
-^Kalimera.*\.tar\.gz$
-^Kalimera.*\.tgz$
+^mypkgname\.Rcheck$
+^mypkgname.*\.tar\.gz$
+^mypkgname.*\.tgz$
+^LICENSE\.md$
