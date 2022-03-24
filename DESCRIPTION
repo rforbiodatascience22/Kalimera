@@ -1,12 +1,17 @@
-Package: mypkgname
-Title: What the Package Does (One Line, Title Case)
+Package: Kalimera
+Title: Central dogma of molecular biology
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Author@R:
+  c(person(given = "Athena",
+           family = "Oliveoil",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "your@email.com"), 
+    person(given = "Christopher",
+           family = "Colombus",
+           role = "aut",
+           email = "your@email.com"))
+Description: Two Southern-European noobs try to code. Will it go wrong? Stay tuned to find out.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
