@@ -17,7 +17,4 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)
-<<<<<<< HEAD
-=======
 LazyData: true
->>>>>>> 5c69967c7805c6deff9ac7e62ec32e90fb987054
